@@ -1,84 +1,96 @@
-<h1 align="center">Anastasiia Fomina</h1>
-<p align="center"><b>Junior Java / Full-Stack Developer · Spring Boot · React · PostgreSQL</b></p>
-<p align="center">Computer Science @ PJAIT, Warsaw · Specialization: Databases</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?logo=junit5&logoColor=white">
+<p align=“center”>
+  <a href=“https://github.com/YOUR_USERNAME”><img src=“https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Your%20Name&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Your%20Role%20%C2%B7%20Your%20Highlight&descSize=24&descAlignY=64” width=“100%” alt=“Anastasiia Fomina” /></a>
+  <img src=“https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+your+first+line.;%3E+your+second+line.;%3E+your+third+line.” width=“100%” alt=“Your typing lines” />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anastasiia-fomina-b00a45316/">LinkedIn</a> ·
-  <a href="https://YOUR-PORTFOLIO-URL">Portfolio</a> ·
-  <a href="mailto:anastasiiafominaw@gmail.com">Email</a>
+<p align=“center”>
+  <a href=“https://www.linkedin.com/in/anastasiia-fomina-b00a45316/”><img src=“https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge” alt=“LinkedIn” /></a>
+  <a href=“https://YOUR_PORTFOLIO_LINK”><img src=“https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge” alt=“Portfolio” /></a>
+  <a href=“mailto:anastasiiafominaw@gmail.com”><img src=“https://img.shields.io/badge/Email-A21517?style=for-the-badge” alt=“Email” /></a>
 </p>
 
-## about
+<p align=“center”>
+  <img src=“https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A” alt=“Highlight 1” />
+  <img src=“https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A” alt=“Highlight 2” />
+  <img src=“https://img.shields.io/badge/number-what_it_means-ECBDD8?style=for-the-badge&labelColor=0A0A0A” alt=“Highlight 3” />
+</p>
 
-```json
-{
-  "based":    "Warsaw, Poland",
-  "role":     "Junior Java Developer / Backend / Full-Stack",
-  "degree":   "B.Sc. Computer Science, PJAIT (2021 – present)",
-  "focus":    "Databases, clean architecture, REST APIs",
-  "learning": "AWS, Machine Learning basics, TypeScript",
-  "speaks":   ["Ukrainian C2", "Russian C2", "English B2", "Polish B2"],
-  "rule":     "Model the data properly first, the code gets easier after that.",
-  "open_to":  "Junior Java Developer · Backend Trainee · Full-Stack Junior (Warsaw / remote)"
+## 🧬 about
+me = {
+    “does”:     “Junior Java Developer / Backend / Full-Stack”,
+    “based”:    “Warsaw, Poland”,
+    "focus":    "Databases, clean architecture, REST APIs",
+    “degree”:   “B.Sc. Computer Science, PJAIT (2021 – present)”,
+    “learning”: “AWS, Machine Learning basics, TypeScript”,
+    “speaks”:   [Ukrainian C2", "Russian C2", "English B2", "Polish B2"],
 }
-```
 
 <details>
-<summary>how I got here, click for the short version</summary>
-
-<br>
-
-I study Computer Science at PJAIT in Warsaw with a specialization in databases. In 2023 I led the frontend of BeautyConnect, a booking platform that won a university tech competition. For my bachelor's thesis I am building a legal management system on my own, from requirements and database design to the backend, the React frontend and Docker deployment. Along the way I added JavaRush, Dataiku (intro to ML) and AWS Cloud Fundamentals. Now I am looking for my first role as a junior Java / backend developer.
-
+<summary><b>🌱 how I got here. click for the short version</b></summary>
+<br />
+<table>
+  <tr><td><b>Year</b></td><td>what happened</td></tr>
+  <tr><td><b>Year</b></td><td>what happened</td></tr>
+  <tr><td><b>Year</b></td><td>what happened</td></tr>
+</table>
 </details>
 
-## experience
+## 💼 experience
 
-**Full-Stack Developer · Legal Management System** (Bachelor's thesis) · 2025 – present
-Solo project from requirements to deployment: a law firm management system.
-- Normalized PostgreSQL schema with inheritance hierarchies, many-to-many relations and constraints, mapped with Hibernate
-- Spring Boot REST API (Java 17) with layered architecture, DTO mapping and global exception handling
-- JWT authentication and role-based authorization with Spring Security
-- React frontend with reusable components, designed in Figma first
-- Docker Compose setup for backend, frontend and database
-- Unit and integration tests with JUnit 5 and Spring Boot Test
+<table>
+  <tr>
+    <td width=“36%” valign=“top”><b>Your Role</b><br /><sub>Company, City · Year</sub></td>
+    <td valign=“top”>What you did, in one or two lines.</td>
+  </tr>
+  <tr>
+    <td width=“36%” valign=“top”><b>Your Role</b><br /><sub>Company, City · Year to Year</sub></td>
+    <td valign=“top”>What you did, in one or two lines.</td>
+  </tr>
+</table>
 
-**Frontend Developer · BeautyConnect** (University Tech Challenge, award winner) · 2023
-Team of 3, a beauty service automation platform.
-- React component library and coding standards for the team
-- Booking UI with date/time slots, reviews and an Admin Panel
-- JWT authentication and integration with a Node.js/Express REST API
-- Mobile-first responsive layouts with Bootstrap and custom CSS
+## 🚀 projects
 
-## projects
+<table>
+  <tr>
+    <td width=“50%” valign=“top”>
+      <h3>☁️ <a href=“https://PROJECT_LINK”>Project One</a></h3>
+      <sub><b>short label · live demo</b></sub>
+      <p>What it does, in one or two sentences.</p>
+      <p><code>Tool</code> <code>Tool</code> <code>Tool</code></p>
+      <a href=“https://PROJECT_LINK”><img src=“https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge” alt=“Try the demo” /></a>
+    </td>
+    <td width=“50%” valign=“top”>
+      <h3>🩺 Project Two</h3>
+      <sub><b>short label</b></sub>
+      <p>What it does, in one or two sentences.</p>
+      <p><code>Tool</code> <code>Tool</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width=“50%” valign=“top”>
+      <h3>🌍 Project Three</h3>
+      <sub><b>short label</b></sub>
+      <p>What it does, in one or two sentences.</p>
+      <p><code>Tool</code></p>
+    </td>
+    <td width=“50%” valign=“top”>
+[20.11.2026 18:11] Anastasiia:       <h3>📂 <a href=“https://github.com/YOUR_USERNAME/YOUR_REPO”>More Work</a></h3>
+      <sub><b>everything else</b></sub>
+      <p>More projects live here.</p>
+    </td>
+  </tr>
+</table>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Legal Management System** | Case, client and document management for a law firm, with role-based access | Java 17, Spring Boot, Spring Security (JWT), Hibernate, PostgreSQL, React, Docker |
-| **BeautyConnect** | Booking platform with an admin panel, award winner at the university tech challenge | React, Node.js, Express, MySQL, JWT, Bootstrap |
+## 🧰 stack
 
-<!-- Add links to the repos and live demos here -->
+<p align=“center”>
+  <img src=“https://skillicons.dev/icons?i=py,ts,js,react,nodejs,postgres,docker,git,github,vscode,figma,notion&perline=14&theme=dark” alt=“Tech stack” />
+</p>
 
-## skills
+<p align=“center”><b>Working on something cool? I’d love to hear about it.</b></p>
 
-**Backend:** Java 17, Spring Boot, Spring Security, Hibernate/JPA, REST API design, Node.js
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Figma
-**Databases:** PostgreSQL, MySQL, MSSQL
-**DevOps & tools:** Docker, Docker Compose, Git, Linux/Bash, Postman, IntelliJ IDEA, pgAdmin
-**Testing:** JUnit 5, Spring Boot Test, integration testing
-**Also:** Python and C# basics, data structures and algorithms, Agile
+<p align=“center”>
+  <a href=“mailto:YOUR_EMAIL”><img src=“https://img.shields.io/badge/say_hi-A21517?style=for-the-badge” alt=“Email me” /></a>
+</p>
 
-## contact
-
-Open to junior opportunities. Write to me on [LinkedIn](https://www.linkedin.com/in/anastasiia-fomina-b00a45316/) or at anastasiiafominaw@gmail.com.
+<p align=“center”><img src=“https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=your%20sign-off%20line&fontSize=30&fontColor=FFFFFF&fontAlignY=52” width=“100%” alt=“Your sign-off line” /></p>
